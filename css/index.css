@@ -2,7 +2,7 @@ body{
     background-color:black;
     backdrop-filter: blur(50px);
 }
-@media screen and  (min-width:400px) {
+
 .box1{
   width:fit-content;
   color:chocolate;
@@ -454,4 +454,4 @@ input[type="text"],textarea{
         -moz-transition: box-shadow 0.2s ease-in;
         transition: box-shadow 0.2s ease-in;
       }
-    }
+    
