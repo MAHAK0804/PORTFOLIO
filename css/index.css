@@ -103,6 +103,20 @@ body{
         font-size: 20px;
         font-family:Verdana;
       }
+.cot{
+        padding: 30px;
+      }
+      .cot img{
+  background:transparent;
+ padding: 10px;
+ 
+        border: 5px solid #000;
+        border-radius: 200px;
+}
+.cot img:hover{
+  background-color:azure;
+  box-shadow: 1px 1px 12px 15px #000;
+}
       button {
         position: relative;
         padding: 10px 20px;
